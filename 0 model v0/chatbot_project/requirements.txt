@@ -1,0 +1,4 @@
+# Requirements for the chatbot project
+
+# Placeholder for required packages
+

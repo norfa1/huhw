@@ -1,0 +1,13 @@
+{
+  "user_history": [
+    "Hello",
+    "How are you?"
+  ],
+  "bot_history": [
+    "Hi!",
+    "I am doing well, thank you."
+  ],
+  "context": {
+    "intent": "greeting"
+  }
+}
